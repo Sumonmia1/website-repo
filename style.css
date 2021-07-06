@@ -1,0 +1,138 @@
+*{
+    margin: 0px;
+    padding: 0px;
+} 
+header#menu-bar ul {
+    display: inline-flex;
+    list-style: none;
+    color: #942020;
+    text-decoration: none;
+}
+header#menu-bar ul li a {
+    padding: 58px;
+    color: white;
+    text-decoration: none;
+    margin: 21pxx;
+    font-size: 28px;
+}  
+img{
+    max-width: 100%;
+ }
+ body{
+     margin: 0%;
+ }
+ #First-Section{
+     background-color: rgb(241 240 240);
+     display: flex;
+ }
+ div#left-content {
+     width: 455px;
+     float: left;
+     padding: 81px;
+ }
+ img {
+     width: 439px;
+ }
+ button {
+  background-image: linear-gradient(#574ac3,#141a38);
+  color: white;
+  padding: 8px 40px;
+  border-radius: 34px;
+  font-family: arial black;
+ }
+ p {
+     margin-bottom: 50px;
+     margin-top: 40px;
+     color: whiq;
+     color: #797575;
+     font-weight: bold;
+     font-size: 13px;
+ }
+ strong{
+     color: orangered;
+ }
+ #Second-Section{
+     display: flex;
+     background: #1d1d38;
+ }
+ div#content h1 {
+     color: orangered;
+     margin-bottom: 50px;
+     margin-top: 50px;
+ }
+
+ 
+ div#content p {
+     color: white;
+ }
+ #default-color{
+     color: yellow;
+ }
+ div#first-content {
+     width: 88%;
+     margin-top: 50px;
+ }
+ div#content {
+     width: 100%;
+     margin-top: 93px;
+     padding-left: 150px;
+     padding-right: 173px;
+ }
+ #contact-button {
+     padding: 10px 40px;
+     font-family: arial black;
+     border-radius: 10px;
+     background-image: linear-g;
+     background-image: linear-gradient(45deg, #ff2600, transparent);
+     color: black;
+     text-decoration: none;
+ }
+ footer{
+     padding: 1px;
+     color: wheat;
+     background-color: rgb(92, 5, 70);
+     font-family: arial black;
+     text-align: center;
+     line-height: 1px;
+ }
+ div#top-headding {
+     width: 556px;
+     text-align: center;
+     margin: auto;
+     font-family: arial blac;
+     margin-top: 50px;
+ }
+ #main-div{
+     width: 273px;
+     border: 1px solid #e8dddd;
+     text-align: left;
+     margin-bottom: 50px;
+     padding: 10px;
+     box-shadow: 2px 10px 20px -10px;
+     margin-left: 9%;
+ }
+
+
+ section#Third-Section h1 {
+     font-family: arial black;
+ } 
+ #Third-Section{
+     display: flex;
+ }
+ #footer-content p{
+     font-size: 15px;
+ }
+ h4 {
+    margin-top: 60px;
+    font-size: 18px;
+}
+div#top-headding h1 {
+    border-bottom: 3px solid #f1ebeb;
+ 
+}
+header {
+    background: #070738;
+    text-align: center;
+    padding: 20px;
+}
+
